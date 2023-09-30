@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="project_logo.png" alt="Project Logo" width="300">
-</div>
-
 # Diabetes Prediction using Machine Learning
 
 Welcome to our Diabetes Prediction project! We aim to predict diabetes in female patients of Pima Indian heritage, aged 21 or older, based on specific medical diagnostic measurements. Our project utilizes a dataset sourced from the National Institute of Diabetes and Digestive and Kidney Diseases.
@@ -24,5 +20,5 @@ Welcome to our Diabetes Prediction project! We aim to predict diabetes in female
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
+   git clone https://github.com/suyogub11/Diabetes-Patients-prediction.git
 
